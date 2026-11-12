@@ -20,4 +20,4 @@ A fighting game starring the Yummicos. It runs right in the browser, with nothin
 
 - Opening `index.html` on github.com itself only shows the code. Use the GitHub Pages link to play.
 - Progress and Mod Mode Yummicos save in each player's own browser.
-- Works on computers, tablets and phones, with keyboard, controllers or touch.
+- Works on computers, tablets and phones, with keyboard, controllers or touch. 
