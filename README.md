@@ -55,3 +55,5 @@ and **PLAY DELUXE** opens `deluxe.html`. The unlock is saved in their browser, s
 - Opening `index.html` on github.com itself only shows the code. Use the GitHub Pages link to play.
 - Progress and Mod Mode Yummicos save in each player's own browser.
 - Works on computers, tablets and phones, with keyboard, controllers or touch.
+
+
